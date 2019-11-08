@@ -1,0 +1,8 @@
+  11/8/2019 3:19:49 PM: Starting composition “Circle Burst 4”.
+
+  Output To: C:\OST\trunk\Assets\Effects\SelectClick\Circle Burst 4\Circle Burst 4_[#####].png    11/8/2019 3:19:49 PM: Finished composition “Circle Burst 4”.
+
+
+  Total Time Elapsed: 0 Seconds
+Log closed on 11/8/2019 at 3:19:49 PM
+
